@@ -8,3 +8,7 @@ I'm a brazilian fullstack developer focusing on getting my first job.
 * HTML
 * CSS
 * JavaScript
+* Linux
+* Bash
+* Docker
+* MySQL
